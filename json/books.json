@@ -1,0 +1,30 @@
+[
+  {
+    "rating": "4.5",
+    "title": "THE WATER CURE",
+    "text": "Martin Hyatt",
+    "img": "img/pic-1.png",
+    "audio": "assets/audio/lakey-inspired-5-min-call.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "PEACE LIFE",
+    "text": "Hazard Bin",
+    "img": "img/pic-2.png",
+    "audio": "assets/audio/nightcore-laszlo-imaginary-friends.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "DAY REMEMBER",
+    "text": "Nickolas",
+    "img": "img/pic-3.png",
+    "audio": ".mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "FRANCE",
+    "text": "Paris",
+    "img": "img/pic-4.png",
+    "audio": ".mp3"
+  }
+]
